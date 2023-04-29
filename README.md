@@ -8,3 +8,4 @@ Esta conta representa um único período de tempo. Representa o momento em que a
 
 Como posso fazer minha inferência? Vamos realizar o valor vitalício com projeções de médio e longo prazo para indivíduos, incluindo o padrão específico de toda a população, extraindo a distribuição de probabilidade condicional e generalizando-as em termos das características de um indivíduo específico.
 
+![CLTV](https://user-images.githubusercontent.com/74688664/235321212-fcea6e56-e3e7-4b1d-be13-1787ed4b2d28.png)
