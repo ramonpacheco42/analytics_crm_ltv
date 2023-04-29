@@ -10,6 +10,8 @@ Esta conta representa um único período de tempo. Representa o momento em que a
 
 Como posso fazer minha inferência? Vamos realizar o valor vitalício com projeções de médio e longo prazo para indivíduos, incluindo o padrão específico de toda a população, extraindo a distribuição de probabilidade condicional e generalizando-as em termos das características de um indivíduo específico.
 
+![CLTV](https://user-images.githubusercontent.com/74688664/235321212-fcea6e56-e3e7-4b1d-be13-1787ed4b2d28.png)
+
 # Formulas
 
 Estimativa probabilística do valor vitalício com projeção de tempo
@@ -33,6 +35,10 @@ BG/NBD = Gama de transações esperada, Gama de lucro esperada.
 Vamos adicionar estatísticas e padrões de probabilidade à fórmula acima. Haverá modelos BG/NBD e Gama Gama que farão isso acontecer para nós. Esses modelos farão uma coisa, que é modelar o comportamento de compra de todos os clientes desta empresa. Após modelar o comportamento de compra de todos os clientes, eles substituirão as características pessoais do indivíduo neste modelo e reduzirão o número esperado de vendas para a pessoa, seguindo o padrão geral do público.
 
 Os modelos BG/NBD e Gama Gama são modelos estatísticos, não modelos de aprendizado de máquina. Na verdade, esses modelos têm a expressão "Condicional" no início.
+
+# Problema de Negócio
+
+Uma empresa de comércio eletrônico deseja segmentar seus clientes e determinar estratégias de marketing de acordo com esses segmentos. Por exemplo, deseja-se organizar campanhas diferentes para novos clientes e campanhas diferentes para reter clientes que são muito rentáveis para a empresa.
 
 
 
